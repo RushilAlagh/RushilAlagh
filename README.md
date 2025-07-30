@@ -57,26 +57,20 @@ I'm a passionate **BTech student** specializing in **Cloud Computing** with a st
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 💼 BluDocs
-*Professional document management solution*
-<br>
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rushilalagh/bludocs)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-4CAF50?style=for-the-badge&logo=vercel)](https://your-bludocs-demo.com)
+*Professional document management solution | Backend Development*
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RushilAlagh/Bludocs2324) [![Demo & Explanation](https://img.shields.io/badge/Demo_&_Explanation-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1czlpQwu8BvvXUn6YSR-8Xd2OBK-nEP1X)
 
 ### 🛍️ Deallure  
-*E-commerce platform with modern UI/UX*
-<br>
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rushilalagh/deallure)
-[![Visit Site](https://img.shields.io/badge/Visit_Site-Live_Now-FF6B6B?style=for-the-badge&logo=safari)](https://your-deallure-site.com)
+*E-commerce platform with modern UI/UX | Frontend Development*
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RushilAlagh/Deallure-frontend) [![Visit Site](https://img.shields.io/badge/Visit_Site-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://d193b74kfpr98k.cloudfront.net)
 
 ### 🏫 CampusGuardian
 *Campus safety and management system*
-<br>
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rushilalagh/campusguardian)
 
-</div>
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushilalagh/campusguardian)
 
 ---
 
